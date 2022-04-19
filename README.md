@@ -3,4 +3,6 @@ Project for class CS 6635: Visualisation of Scientific Data at the University of
 
 ## Animation of Dense Layer over training epochs
 
-![til](./export/great_white_shark.gif) ![til](./export/bald_eagle.gif) ![til](./export/assault_rifle.gif)
+Greate White Shark | Bald Eagle | Assault Rifle
+-|-|-
+![til](./export/great_white_shark.gif) | ![til](./export/bald_eagle.gif) | ![til](./export/assault_rifle.gif)
